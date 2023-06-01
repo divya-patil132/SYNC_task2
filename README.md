@@ -1,0 +1,2 @@
+# SYNC_task2
+TASK2 :- QUIZ APP
